@@ -1,0 +1,26 @@
+_repo: Mr-Pim-Passes-By-A-Comedy-in-Three-Acts_7310
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 20th century'
+- !lcc 'PR'
+title: 'Mr. Pim Passes By: A Comedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/7310
